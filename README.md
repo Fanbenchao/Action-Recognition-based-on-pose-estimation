@@ -5,6 +5,8 @@
   <p>We repeat the results of the follwing CVPR 2018 paper:
     <b><br>2D/3D Pose Estimation and Action Recognition using Multitask Deep leaning</br></b>
     <br>if you'd like to refer to the original codes, <a href="https://github.com/dluvizon/deephar">Please tap this link </a> </br>
+    <br>our contribution is to supplement the original codes, 
+    such as the training process of the 3D pose estimation and action recognition etc.</br>
   </p>
 <h2>Details</h2>
 <p><b>language:</b>python3.6</p>
